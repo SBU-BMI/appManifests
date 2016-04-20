@@ -1,0 +1,8 @@
+{
+    "name":"dsripApps",
+    "description":"interactive maps for block level statistics",
+    "link":"http://sbu-bmi.github.io/dsrip/maps.html",
+    "source":"https://github.com/SBU-BMI",
+    "icon":"https://www.mathsisfun.com/numbers/images/fibonacci.jpg",
+    "onclick":"https://sbm-it.github.io/fibonacci/fib.js"
+}
