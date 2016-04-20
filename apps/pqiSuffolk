@@ -1,0 +1,8 @@
+{
+    "name":"pqiSuffolk",
+    "description":"interactive graphics on Suffolk county zip codes",
+    "link":"http://bit.ly/pqiSuffolk",
+    "dataSource":"https://health.data.ny.gov/resource/5q8c-d6xq",
+    "icon":"https://www.mathsisfun.com/numbers/images/fibonacci.jpg",
+    "onclick":"https://sbm-it.github.io/fibonacci/fib.js"
+}
