@@ -1,2 +1,2 @@
-# appManifests
-manifests of apps
+# Manifests
+manifests of apps, data, dashboards, reports etc
